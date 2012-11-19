@@ -1,4 +1,19 @@
-hack-weekends
-=============
+# hack-weekends
 
-This is the hack weekends platform.  Here you can be part of the Hack Weekends model.  Get involved!
+All about hacking the weekends away.
+
+## Usage
+
+For all usage and documentation please see: <http://hackweekends.com>
+
+## Version
+
+0.1 - Just getting going
+
+## Contributing 
+
+Contact Kin Lane - info@apievangelist.com
+
+## License
+
+[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
